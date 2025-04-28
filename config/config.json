@@ -1,0 +1,10 @@
+{
+  "temp_dir": "temp",
+  "script_dir": "scripts",
+  "output_dir": "outputs",
+  "blender_path": "blender",
+  "default_provider": "claude",
+  "default_render_quality": "medium",
+  "cleanup_temp": true,
+  "log_level": "INFO"
+}
